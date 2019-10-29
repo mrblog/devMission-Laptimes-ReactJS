@@ -18,4 +18,4 @@ Clicking the _View_ button for a track will present a detailed view for that tra
 
 ### Demo deployment
 
-https://zhuym.csb.app/
+https://zhuym.codesandbox.io/
